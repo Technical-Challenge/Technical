@@ -1,0 +1,1 @@
+terraform import aws_instance.qa instance id need to define
